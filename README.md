@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Merkle Airdrop** smart contract implements an efficient and secure token distribution mechanism using Merkle trees, EIP-712 structured data signing, and ECDSA cryptography. It enables eligible users to claim ERC20 tokens through Merkle proof verification, with optional delegation for trusted claimants to pay gas fees.
+The **Merkle Airdrop** smart contract implements an efficient and secure token distribution mechanism using Merkle trees, EIP-712 structured data signing, and ECDSA cryptography. It enables eligible users to claim ERC20 tokens through Merkle proof verification, with optional delegation for trusted claimants to pay gas fees
 
 The project leverages the **Foundry** framework for development, testing, and deployment
 
